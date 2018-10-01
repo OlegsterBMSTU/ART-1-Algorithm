@@ -1,0 +1,4 @@
+﻿  ART algorithm.cpp
+c:\users\user\source\repos\art algorithm\art algorithm\art algorithm.cpp(21): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\user\source\repos\art algorithm\art algorithm\art algorithm.cpp(280): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ART algorithm.vcxproj -> C:\Users\User\source\repos\ART algorithm\Debug\ART algorithm.exe

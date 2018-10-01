@@ -1,0 +1,37 @@
+For Customer 0, The best recomendation is 2 (Snickers)
+Owned by 2 out of 3 members of this cluster
+
+
+For Customer 1, The best recomendation is 4 (Pen)
+Owned by 1 out of 2 members of this cluster
+
+
+For Customer 2, No recomendation
+
+
+For Customer 3, No recomendation
+
+
+For Customer 4, The best recomendation is 6 (Wrench)
+Owned by 1 out of 3 members of this cluster
+
+
+For Customer 5, The best recomendation is 1 (Paper)
+Owned by 1 out of 2 members of this cluster
+
+
+For Customer 6, The best recomendation is 9 (TapeMeasur)
+Owned by 2 out of 3 members of this cluster
+
+
+For Customer 7, The best recomendation is 5 (Kit-Kat)
+Owned by 2 out of 3 members of this cluster
+
+
+For Customer 8, The best recomendation is 10 (Binder)
+Owned by 1 out of 2 members of this cluster
+
+
+For Customer 9, No recomendation
+
+
